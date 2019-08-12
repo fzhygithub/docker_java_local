@@ -4,14 +4,18 @@
 ### git commit -m "first commit"
 ### git remote add origin https://github.com/fzhygithub/docker_build_java.git
 ### git push -u origin master
+#
+#
 
 …or push an existing repository from the command line 
-## git remote add origin https://github.com/fzhygithub/docker_build_java.git
-## git push -u origin master
+### git remote add origin https://github.com/fzhygithub/docker_build_java.git
+### git push -u origin master
 
+#
+#
 …or import code from another repository You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-
+#
 #
 ### MAINTAINER        fanzhengyuan <6562157@qq.com>
 ### DOCKER-VERSION    Docker version 17.04.0-ce, build 4845c56
