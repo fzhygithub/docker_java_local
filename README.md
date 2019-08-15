@@ -1,3 +1,4 @@
+```
 …or create a new repository on the command line echo "# docker_build_java" >> README.md
 ### git init
 ### git add .
@@ -70,3 +71,4 @@ CMD ["catalina.sh", "run"]
 ### https://github.com/fzhygithub/docker_build_java.git
 ### docker run -d -p 8888:8080 java:latest
 ### curl http://localhost:8888/hello/index.jsp
+```
