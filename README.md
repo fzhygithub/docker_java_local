@@ -68,7 +68,7 @@ CMD ["catalina.sh", "run"]
 ### CMD ["java","-jar","/hello/target/hello.war"]
 
 
-### https://github.com/fzhygithub/docker_build_java.git
+### https://github.com/fzhygithub/docker_java_local.git
 ### docker run -d -p 8888:8080 java:latest
 ### curl http://localhost:8888/hello/index.jsp
 ```
