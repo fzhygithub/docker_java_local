@@ -1,15 +1,15 @@
 ```
-…or create a new repository on the command line echo "# docker_build_java" >> README.md
+…or create a new repository on the command line echo "# docker_java_local" >> README.md
 ### git init
 ### git add .
 ### git commit -m "first commit"
-### git remote add origin https://github.com/fzhygithub/docker_build_java.git
+### git remote add origin https://github.com/fzhygithub/docker_java_local.git
 ### git push -u origin master
 #
 #
 
 …or push an existing repository from the command line 
-### git remote add origin https://github.com/fzhygithub/docker_build_java.git
+### git remote add origin https://github.com/fzhygithub/docker_java_local.git
 ### git push -u origin master
 
 #
